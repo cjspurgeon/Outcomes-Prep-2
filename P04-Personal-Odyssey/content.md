@@ -14,20 +14,25 @@ Let's take a look at what a Personal Odyssey is, how to prepare one, and what hi
 
 # Intro
 What the heck is a Personal Odyssey?
+
 ![ms-video-youtube](https://www.youtube.com/watch?v=lUJBZgEYSNs)
 
 Now, write our your Personal Odyssey using the standard structure below. Check the box once complete.
 
-![Alt text](assets/assets/personal-odyssey-examples.pdf "Personal Odyssey Examples")
+[Personal Odyssey Examples](assets/personal-odyssey-examples.pdf)
 
 # Examples
 How to tailor your Personal Odyssey to companies and roles ...
+
 ![ms-video-youtube](https://www.youtube.com/watch?v=SxEED7iwjx8)
 
 Find two different job descriptions that interest you and craft your Personal Odyssey to each.
 
 # Preparation & FAQs
+
 Watch this to overcome common challenges to creating your Personal Odyssey
+
+
 ![ms-video-youtube](https://www.youtube.com/watch?v=MmQuid0prdw)
 
 
