@@ -13,7 +13,7 @@ This tutorial will teach you how to create a resume that will stand out of the c
 
 Watch this video to see exemplar resumes and learn the secrets to creating a resume that wows employers ...
 
-![ms-video-youtube](https://www.youtube.com/watch?v=tXNpz_tOnVU&feature=youtu.be)
+![ms-video-youtube](https://www.youtube.com/watch?v=tXNpz_tOnVU)
 
 If you already have a draft of your resume, take notes on ways you'd like to improve it.
 

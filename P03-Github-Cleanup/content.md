@@ -3,7 +3,7 @@ title: "Github Cleanup"
 slug: github-cleanup
 ---
 
-# Github
+## Github
 
 This tutorial is pretty straight forward.
 

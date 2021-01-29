@@ -3,7 +3,7 @@ title: "LinkedIn"
 slug: linkedin
 ---
 
-# A+ LinkedIn Tips
+## A+ LinkedIn Tips
 
 Your LinkedIn serves a similar function to resumes yet has a few unique benefits:
 - Forwardable link
@@ -16,7 +16,7 @@ Your LinkedIn serves a similar function to resumes yet has a few unique benefits
 
 Watch this video to see exemplar LinkedIn profiles and learn the secrets to creating an amazing LinkedIn ...
 
-![ms-video-youtube](https://youtu.be/9lMHxt_762E)
+![ms-video-youtube](https://www.youtube.com/watch?v=9lMHxt_762E)
 ![ms-video](assets/short-video.mov)
 
 # LinkedIn draft
@@ -37,12 +37,3 @@ Keep improving your LinkedIn until you check all the boxes.
 Once you complete your resume, upload it your Make School portfolio.
 
 AND put it in this google sheet.
-
-
-## Subheaders
-
-### Subsubheaders
-
-![alt text](assets/imgfilename.png)
-
-![video alt text](youtubeurl.com)
