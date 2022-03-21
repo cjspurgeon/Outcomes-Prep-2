@@ -1,7 +1,4 @@
----
-title: "LinkedIn"
-slug: linkedin
----
+# LinkedIn
 
 ## A+ LinkedIn Tips
 
@@ -16,7 +13,8 @@ Your LinkedIn serves a similar function to resumes yet has a few unique benefits
 
 Watch this video to see exemplar LinkedIn profiles and learn the secrets to creating an amazing LinkedIn ...
 
-![ms-video-youtube](https://www.youtube.com/watch?v=9lMHxt_762E)
+[WATCH LINKEDIN VIDEO HERE](https://drive.google.com/file/d/1pwMU5Fe4kBsV8Id41yOCgkjythYuimZc/view?usp=sharing)
+
 
 # LinkedIn draft
 Improve your LinkedIn using the lessons from the video above.
@@ -33,6 +31,6 @@ Keep improving your LinkedIn until you check all the boxes.
 
 
 # Upload LinkedIn
-Once you complete your resume, upload it your Make School portfolio.
+Once you complete your LinkedIn, put it in the course tracker.
 
-AND put it in this google sheet.
+# [Click Next Section](https://github.com/Tech-at-DU/Outcomes-Prep-2/blob/master/P03-Github-Cleanup/content.md)
