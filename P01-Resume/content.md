@@ -1,7 +1,4 @@
----
-title: "Resume"
-slug: resume
----
+# Resume
 
 Let's begin!
 
@@ -9,18 +6,11 @@ The first document we will build is your *resume*. Think of it as the first impr
 
 This tutorial will teach you how to create a resume that will stand out of the crowd.
 
-# Quality Resumes
-
-Watch this video to see exemplar resumes and learn the secrets to creating a resume that wows employers ...
-
-![ms-video-youtube](https://www.youtube.com/watch?v=tXNpz_tOnVU)
-
-If you already have a draft of your resume, take notes on ways you'd like to improve it.
 
 # Resume draft
-Improve your resume using the tips outlined in the video above. For reference, here are the [video slides](https://docs.google.com/presentation/u/1/d/1TXO6-VC12iYY1r-48SfgleTjH8xjMy8Ge5JHNmNDDj0/edit?usp=drive_web).
+Here are resume-making tips outlined in these slides [slides](https://docs.google.com/presentation/d/1w71e-NmogQiFncKueBPSTfwx8AQaGs7PWr8sDgQLPCw/edit?usp=sharing).
 
-If you don't already have a draft of your resume, create one after watching the video.
+If you don't already have a draft of your resume, create one now.
 
 # Resume Checklist
 
@@ -28,7 +18,7 @@ By now you should have a strong draft of your resume.
 
 Let's make it even better.
 
-Grade your resume using this [resume checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.9dw8bx66eg63)
+Grade your resume using this [resume checklist](https://docs.google.com/document/d/19X6NAO7M8IqGzBUP3ca3CmwCtY4WbkoyS-olrDRpwqw/edit#heading=h.tyjcwt)
 
 Keep improving your resume until you check all the boxes.
 
@@ -48,6 +38,6 @@ This is a tip to give you a small leg up in the job search.
 The more your resume speaks directly to job descriptions, the better.
 
 # Upload it!
-Once you complete your resume, upload it your Make School portfolio.
+Once you complete your resume, add it to the course tracker.
 
-Remember to check all the "Mark As Complete" boxes within this web tutorial.
+# [Click Next Section]
