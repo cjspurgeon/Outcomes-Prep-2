@@ -40,4 +40,4 @@ The more your resume speaks directly to job descriptions, the better.
 # Upload it!
 Once you complete your resume, add it to the course tracker.
 
-# [Click Next Section]
+# [Click Next Section](https://github.com/Tech-at-DU/Outcomes-Prep-2/blob/master/P02-LinkedIn/content.md)
