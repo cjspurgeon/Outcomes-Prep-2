@@ -10,8 +10,7 @@ This tutorial will teach you how to create a resume that will stand out of the c
 # Resume draft
 Here are resume-making tips outlined in these slides [slides](https://docs.google.com/presentation/d/1w71e-NmogQiFncKueBPSTfwx8AQaGs7PWr8sDgQLPCw/edit?usp=sharing).
 
-If you don't already have a draft of your resume, create one now.
-
+If you don't already have a draft of your resume, create one now. Resume Example: https://docs.google.com/document/d/1nWq2HQSzCE6UQKRkOHIZoSAlkbKc59E5KfRupVZUxUU/edit
 # Resume Checklist
 
 By now you should have a strong draft of your resume.
